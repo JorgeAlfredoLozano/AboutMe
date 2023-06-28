@@ -1,60 +1,19 @@
-Jorge Alfredo Lozano							
-Full Stack Developer 											
-________________________________________
+<h1 align="center">Hi 👋, I'm Jorge Alfredo Lozano</h1>
+<h3 align="center">A passionate full stack developer from Argentina</h3>
 
-Full Stack Developer con background en proyectos individuales en Henry Bootcamp que me ayudaron a profundizar los conocimientos adquiridos y plasmarlos en proyectos web. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS, postgres, JavaScript. Nivel de Inglés: básico, solo lectura.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgealfredolozano&label=Profile%20views&color=0e75b6&style=flat" alt="jorgealfredolozano" /> </p>
 
-PROYECTOS
+- 🔭 I’m currently working on **Proyecto Final Henry**
 
-Full Stack Web Developer - <Drivers>		 				jun. 23 – 3 week
-Experiencia académica. Henry Bootcamp
+- 🌱 I’m currently learning **JavaScript, Vite, Postgres SQL, CSS**
 
-Diseñar y desarrollar una App de pilotos de fórmula 1 que incluía: autenticación, búsquedas, filtrados combinados, ordenamientos, generación de nuevos pilotos, etc. La información se consume en forma híbrida entre una API proporcionada y una BD relacional. 
+- 📫 How to reach me **puntonetazul@gmail.com**
 
-Front: JavaScript | Vite | Axios | Redux | CSS  
-Back: JavaScript 
-Base de datos: PostgreSQL y Sequelize.
-<Link al repo>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jorgealozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgealozano" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-EXPERIENCIA PROFESIONAL
-
-Soporte Técnico  								Ene 95 - actualidad.
-La Plata - Azul, Bs As, Argentina.
-
-●	Freelancer
-●	Hardware & Software.
-●	Orientado a particulares, profesionales y empresa. 
-
-
-Venta y administración de Seguros Patrimoniales 				junio. 16 - actualidad
-Azul – Bs. As., Argentina
-
-●	Asesoramiento en seguros patrimoniales.
-●	Administración de cartera y oficina.
-●	Manejo de Marca y redes sociales.
-●	Reuniones y toma de decisiones con compañías aseguradoras. 
-
-
-
-TECNOLOGÍAS:
-
-Lenguajes de Programación: JavaScript Herramientas de Frameworks: React. Base de Datos: Postgres. Herramientas: Git, PgAdmin, Slack, Discord. Agile: Scrum. 
-Del 90 al 2005 programación en lenguajes estructurados Basic, Cobol, Pascal, Clipper, Vb6, dbase,MS Access desarrollando ABM.
-
-
-EDUCACIÓN PROFESIONAL
-
-●	Full Stack Web Developer. Henry Bootcamp. 700 horas de cursado teórico-práctico. 2023.
-●	Técnico Superior en Seguros. TecLab 2021-2023.
-●	Técnico Nacional en Computación. ENET N1 V. Pereda. 1995.
-
-
-EDUCACIÓN COMPLEMENTARIA
-
-●	QA/Testing, Codo a Codo. 2023
-●	Introducción a la programación, Argentina Programa 4.0 2023
-
-IDIOMAS
-
-●	Inglés B1 - básico.

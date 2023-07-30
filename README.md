@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jorge Alfredo Lozano</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
-<h4 align="center">Full Stack Developer with a background in individual projects at Henry Bootcamp that helped me deepen the knowledge acquired and translate it into web projects. Knowledge of agile methodologies, GIT, data structure, algorithms, CSS frameworks, postgres, JavaScript. English level: basic, reading only.
-My passion for programming began many years ago with languages ​​like Basic, Cobol, VB, and Clipper, which allowed me to develop strong skills in structured programming. After some time away from programming, I'm excited to be back in the tech world thanks to my training at I'm Henry.</h4>
+<h4 align="center">I am a passionate full-stack developer and QA tester, dedicated to creating web applications that deliver exceptional experiences to users. My strong foundation in the backend is built on the use of technologies like Node.js and Express, enabling me to efficiently manage data through PostgresSQL. Additionally, I implement clear code modularization, facilitating teamwork.
+
+At the same time, I continually refine my frontend skills, developing interactive interfaces with React and Redux, and applying CSS styles to create visually appealing and responsive web designs.
+
+What truly sets me apart is my unwavering commitment to continuous learning and staying at the forefront of web development. I am enthusiastic about embracing new technologies and trends, striving to provide cutting-edge solutions for current needs. My passion lies in tackling challenges and seeking technological solutions to enhance people's well-being, leaving my mark on each project.
+
+I had the privilege of contributing to the development of <Aprende Conmigo>, where I played a vital role as a developer and team leader. By utilizing Scrum and Agile methodologies, we efficiently achieved our objectives, creating an innovative product that addresses an educational market need.
+
+I invite you to explore my portfolio and discover how my passion for learning and dedication to creating impactful web experiences can add value to your projects. Let's connect and discuss how I can contribute to the success of your project!
+
+Don't hesitate to contact me, so we can create something amazing together!
+📱+5492281531457
+📧 puntonetazul@gmail.com</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgealfredolozano&label=Profile%20views&color=0e75b6&style=flat" alt="jorgealfredolozano" /> </p>
 
-- 🔭 I’m currently working on **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations.
+- 🔭 I’m currently working on **Proyect Final Henry**, It is oriented to the management of OnLine teachers in different specializations (Finished).
 
 - 🌱 I’m currently learning **JavaScript, Vite, Postgres SQL, CSS**
 
